@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "clicked": false,
+        "image": "1.jpg"
+    },
+    {
+        "id": 2,
+        "clicked": false,
+        "image": "2.jpg"
+    },
+    {
+        "id": 3,
+        "clicked": false,
+        "image": "3.jpg"
+    },
+    {
+        "id": 4,
+        "clicked": false,
+        "image": "4.png"
+    },
+    {
+        "id": 5,
+        "clicked": false,
+        "image": "5.jpg"
+    },
+    {
+        "id": 6,
+        "clicked": false,
+        "image": "6.jpg"
+    },
+    {
+        "id": 7,
+        "clicked": false,
+        "image": "7.jpg"
+    },
+    {
+        "id": 8,
+        "clicked": false,
+        "image": "8.jpg"
+    },
+    {
+        "id": 9,
+        "clicked": false,
+        "image": "9.jpg"
+    },
+    {
+        "id": 10,
+        "clicked": false,
+        "image": "10.gif"
+    },
+    {
+        "id": 11,
+        "clicked": false,
+        "image": "11.png"
+    },
+    {
+        "id": 12,
+        "clicked": false,
+        "image": "12.png"
+    }
+]
